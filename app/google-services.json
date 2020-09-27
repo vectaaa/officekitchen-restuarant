@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "403876956260",
+    "firebase_url": "https://officekitchen-eb4d2.firebaseio.com",
+    "project_id": "officekitchen-eb4d2",
+    "storage_bucket": "officekitchen-eb4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403876956260:android:dbbd581eeea16161bf3771",
+        "android_client_info": {
+          "package_name": "com.example.officekitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403876956260-354biuno7r3kc2jafu2q6cdqp3q9lvs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.officekitchen",
+            "certificate_hash": "9b22d0f7b5d6e13544ed11b8449ee55817bf4efe"
+          }
+        },
+        {
+          "client_id": "403876956260-704vsk4lvjr5vl0tt5bgk0tiuo5fa2km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.officekitchen",
+            "certificate_hash": "efb9752a011da63a7de32cee5e8330f39e7912bd"
+          }
+        },
+        {
+          "client_id": "403876956260-rkq6k29q7lb7fapiph482t6b4rate32e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyviOqfqI-Y1Z9Bxy7f52EtpleLDrbYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403876956260-rkq6k29q7lb7fapiph482t6b4rate32e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403876956260:android:cff5de665b4bc32cbf3771",
+        "android_client_info": {
+          "package_name": "com.botosoft.okdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403876956260-vf2e7eo0t931kio9v1n43t26mfdaabqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.botosoft.okdelivery",
+            "certificate_hash": "efb9752a011da63a7de32cee5e8330f39e7912bd"
+          }
+        },
+        {
+          "client_id": "403876956260-rkq6k29q7lb7fapiph482t6b4rate32e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyviOqfqI-Y1Z9Bxy7f52EtpleLDrbYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403876956260-rkq6k29q7lb7fapiph482t6b4rate32e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
